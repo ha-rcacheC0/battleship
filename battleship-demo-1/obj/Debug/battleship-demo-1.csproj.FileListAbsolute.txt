@@ -1,0 +1,14 @@
+C:\Users\lucaskeller\source\repos\battleship-demo-1\battleship-demo-1\bin\Debug\battleship-demo-1.exe.config
+C:\Users\lucaskeller\source\repos\battleship-demo-1\battleship-demo-1\bin\Debug\battleship-demo-1.exe
+C:\Users\lucaskeller\source\repos\battleship-demo-1\battleship-demo-1\bin\Debug\battleship-demo-1.pdb
+C:\Users\lucaskeller\source\repos\battleship-demo-1\battleship-demo-1\obj\Debug\battleship-demo-1.csproj.AssemblyReference.cache
+C:\Users\lucaskeller\source\repos\battleship-demo-1\battleship-demo-1\obj\Debug\battleship-demo-1.csproj.CoreCompileInputs.cache
+C:\Users\lucaskeller\source\repos\battleship-demo-1\battleship-demo-1\obj\Debug\battleship-demo-1.exe
+C:\Users\lucaskeller\source\repos\battleship-demo-1\battleship-demo-1\obj\Debug\battleship-demo-1.pdb
+C:\Mac\Home\Desktop\battleship\battleship-demo-1\bin\Debug\battleship-demo-1.exe.config
+C:\Mac\Home\Desktop\battleship\battleship-demo-1\bin\Debug\battleship-demo-1.exe
+C:\Mac\Home\Desktop\battleship\battleship-demo-1\bin\Debug\battleship-demo-1.pdb
+C:\Mac\Home\Desktop\battleship\battleship-demo-1\obj\Debug\battleship-demo-1.csproj.AssemblyReference.cache
+C:\Mac\Home\Desktop\battleship\battleship-demo-1\obj\Debug\battleship-demo-1.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\battleship\battleship-demo-1\obj\Debug\battleship-demo-1.exe
+C:\Mac\Home\Desktop\battleship\battleship-demo-1\obj\Debug\battleship-demo-1.pdb
